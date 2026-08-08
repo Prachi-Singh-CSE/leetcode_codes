@@ -35,4 +35,16 @@ it helps me to organize all the solution at one place
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0645-set-mismatch) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
