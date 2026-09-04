@@ -10,6 +10,7 @@ it helps me to organize all the solution at one place
 | [0033-search-in-rotated-sorted-array](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0645-set-mismatch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
