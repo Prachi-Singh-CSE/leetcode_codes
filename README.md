@@ -6,6 +6,7 @@ it helps me to organize all the solution at one place
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0136-single-number](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0136-single-number) |
@@ -34,6 +35,7 @@ it helps me to organize all the solution at one place
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0001-two-sum) |
 | [0645-set-mismatch](https://github.com/Prachi-Singh-CSE/leetcode_codes/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
